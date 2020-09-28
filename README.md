@@ -93,3 +93,6 @@ var Duser = graphql.NewObject(
 )
 
 ```
+**TODO**
+1 Add docker version
+2 Add initial DB setup
